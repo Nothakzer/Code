@@ -9,7 +9,7 @@ else:
 if (nextpass) == 22121232:
     print ("Correct, access Granted");    
     print ("Heres the data:")
-    print ("Name: UR MOM \n Age: OLD \n Description: FAT LMAO \n Funny: no..im sorry...")
+    print ("Name: null \n Age: null \n Description: null")
 else:
     print ("Lol so close lmao")
     
